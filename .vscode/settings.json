@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Cristian Fernandes\\.platformio\\penv\\Scripts;C:\\Users\\Cristian Fernandes\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files\\Java\\jdk1.8.0_102\\bin;C:\\Program Files\\Dell\\Dell Wireless WLAN Card;C:\\Program Files\\MySQL\\MySQL Server 5.5\\bin;C:\\Program Files (x86)\\Common Files\\Apple\\Internet Services\\;C:\\Program Files\\Apache Software Foundation\\php;C:\\Program Files\\Git\\cmd;C:\\Users\\Cristian Fernandes\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\Cristian Fernandes\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\Cristian Fernandes\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files\\Java\\jdk1.8.0_102\\bin;C:\\Program Files\\Dell\\Dell Wireless WLAN Card;C:\\Program Files\\MySQL\\MySQL Server 5.5\\bin;C:\\Program Files (x86)\\Common Files\\Apple\\Internet Services\\;C:\\Program Files\\Apache Software Foundation\\php;C:\\Program Files\\Git\\cmd;C:\\Users\\Cristian Fernandes\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\Cristian Fernandes\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\Cristian Fernandes\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "functional": "cpp"
+    }
+}
