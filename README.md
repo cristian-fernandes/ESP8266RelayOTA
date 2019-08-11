@@ -3,8 +3,8 @@
 This sketch is a basic way to control a output pin through internet, it can be used in an infinity of things, my initial idea while creating this was to turn ON the lamp in my garage from the Wi-Fi connection, this way I can turn the lights on without entering the house.
 
 This sketch needs basically:
-  - ESP8266-01 (with NODEMCU firmwware)
-  - Something to be connected in the PIN0 of the ESP8266 for the output of 3.3V.
+  - ESP8266-01 (with NODEMCU firmware)
+  - Something to be connected in the PIN 0 of the ESP8266-01 for the output of 3.3V.
 
 # Features 
 
