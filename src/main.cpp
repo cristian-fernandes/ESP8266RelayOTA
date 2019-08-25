@@ -4,8 +4,9 @@
 #include "HtmlWrapper.h"
 
 // Setting the Wi-Fi credentials
-const char* ssid     = "YOUR_SSID";
-const char* password = "YOUR_PASSWORD";
+//const char* ssid     = "YOUR_SSID";
+//const char* password = "YOUR_PASSWORD";
+
 const long timeoutTime = 2000;
 const int output = 0;
 
